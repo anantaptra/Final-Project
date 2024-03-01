@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Rp85.000,00_grid-product__image lazyaut_5aa76e</name>
+   <tag></tag>
+   <elementGuidId>106bbe85-6bb2-49c3-96ca-dd547ff5e231</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ProductGridSlider-6207905005759']/div/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.grid-product__image.lazyautosizes.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0faf01f2-39a2-4426-9d4b-d12a343e377c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-product__image lazyautosizes lazyloaded</value>
+      <webElementGuid>ce78f7e1-ae3a-4284-a9d6-10465559e569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-widths</name>
+      <type>Main</type>
+      <value>[750, 900, 1080]</value>
+      <webElementGuid>1e0239bc-b523-4d54-8194-a5c318d8bb14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aspectratio</name>
+      <type>Main</type>
+      <value>1.0</value>
+      <webElementGuid>aa5366cd-3651-4660-9f68-b5f60fb24366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sizes</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>34b75e8f-e918-4c56-ac8e-4fdf6a53511c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-srcset</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/0256/2398/6281/products/2_55a995d5-2da5-4955-a6c3-7f5cfcf72d05_750x.jpg?v=1619130163 750w, //cdn.shopify.com/s/files/1/0256/2398/6281/products/2_55a995d5-2da5-4955-a6c3-7f5cfcf72d05_900x.jpg?v=1619130163 900w, //cdn.shopify.com/s/files/1/0256/2398/6281/products/2_55a995d5-2da5-4955-a6c3-7f5cfcf72d05_1080x.jpg?v=1619130163 1080w</value>
+      <webElementGuid>74ad28e1-ca6a-4365-980a-37df5c016991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>275px</value>
+      <webElementGuid>e5f00589-a063-45ca-b863-1551dcbbf6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/0256/2398/6281/products/2_55a995d5-2da5-4955-a6c3-7f5cfcf72d05_750x.jpg?v=1619130163 750w, //cdn.shopify.com/s/files/1/0256/2398/6281/products/2_55a995d5-2da5-4955-a6c3-7f5cfcf72d05_900x.jpg?v=1619130163 900w, //cdn.shopify.com/s/files/1/0256/2398/6281/products/2_55a995d5-2da5-4955-a6c3-7f5cfcf72d05_1080x.jpg?v=1619130163 1080w</value>
+      <webElementGuid>706ded62-c867-4329-a8b8-1409ed6b440a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductGridSlider-6207905005759&quot;)/div[@class=&quot;flickity-viewport&quot;]/div[@class=&quot;flickity-slider&quot;]/div[@class=&quot;product-slide is-selected&quot;]/div[@class=&quot;image-wrap&quot;]/div[@class=&quot;image-wrap loaded&quot;]/img[@class=&quot;grid-product__image lazyautosizes lazyloaded&quot;]</value>
+      <webElementGuid>b501cf3f-90f7-4e3d-a8c3-d6db45be594d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ProductGridSlider-6207905005759']/div/div/div/div/div/img</value>
+      <webElementGuid>c82403e5-9c60-47fd-8722-086554f546df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/img</value>
+      <webElementGuid>0f9dd3a6-f9fe-4055-aa4c-9c7ce8047359</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

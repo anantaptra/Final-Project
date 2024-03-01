@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Check out</name>
+   <tag></tag>
+   <elementGuidId>02cea669-b1c5-4bdc-a60c-69696e3df19f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='checkout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;checkout&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7a9b25ba-d3da-4f93-ac6e-5d42cfdfeb4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8ded6160-1be3-4087-bd63-3fc21cb88d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--full cart__checkout cart__checkout--drawer</value>
+      <webElementGuid>69d1352b-55e5-42bb-98ee-4e97284bcee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>checkout</value>
+      <webElementGuid>9a4842f4-07e6-4494-a421-1c5ee845c5a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-terms-required</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>43342d15-d88e-4fb8-ad56-2dfa0fc1b503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Check out
+        </value>
+      <webElementGuid>52eb6d4a-61e7-4a40-857f-5d9a30840ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CartDrawerForm&quot;)/div[@class=&quot;drawer__inner&quot;]/div[@class=&quot;drawer__footer cart__footer&quot;]/button[@class=&quot;btn btn--full cart__checkout cart__checkout--drawer&quot;]</value>
+      <webElementGuid>c4bfba79-1e1f-4019-b37a-4fa3e9b883af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='checkout']</value>
+      <webElementGuid>2f17baa8-f55c-4657-89c7-db72816a0aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='CartDrawerForm']/div[2]/div[2]/button</value>
+      <webElementGuid>6123def9-ef50-4730-849e-0560018f4a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping, taxes, and discount codes calculated at checkout.'])[1]/following::button[1]</value>
+      <webElementGuid>294f8634-888a-40a4-b5da-d2537e3fa06b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 108.000,00'])[10]/following::button[1]</value>
+      <webElementGuid>fec8d84b-ad00-4553-8003-b761e2fbb73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='here'])[1]/preceding::button[1]</value>
+      <webElementGuid>c9f09b01-44d3-403b-8ab3-0b77fb8e3370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div[2]/button</value>
+      <webElementGuid>e7726c6a-259f-4ec7-bde8-50a51788a978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'checkout' and (text() = '
+          Check out
+        ' or . = '
+          Check out
+        ')]</value>
+      <webElementGuid>54490b1b-391b-4937-83d2-87321333a131</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

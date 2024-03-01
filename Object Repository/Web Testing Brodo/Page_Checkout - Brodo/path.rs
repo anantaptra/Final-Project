@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>019e56f5-4b58-4dec-9981-b1f79e12bc4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>c1e13e2d-abdf-4d69-8f63-85f59b7be150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M2.675 10.037 3.072 4.2h7.856l.397 5.837A2.4 2.4 0 0 1 8.932 12.6H5.069a2.4 2.4 0 0 1-2.394-2.563</value>
+      <webElementGuid>aceda821-28e2-496a-bcf6-cf845b839b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-link&quot;)/span[@class=&quot;_1fragemm9 _1fragem2i _1fragemhs _1fragemhn a8x1wua _1fragemk5 a8x1wuj a8x1wum&quot;]/svg[@class=&quot;a8x1wuo _1fragemk5 _1fragemm9 _1fragemhs _1fragemhn&quot;]/path[1]</value>
+      <webElementGuid>2a5705d0-e184-4682-a9ff-7ed1f4c44ca5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
